@@ -3,6 +3,7 @@ import { getProductById } from '../../asyncMock'
 import { useState, useEffect } from 'react'
 import ItemDetail from '../ItemDetail/ItemDetail'
 import { useParams } from 'react-router-dom'
+import { Flex } from '@chakra-ui/react'
 
 const ItemDetailContainer = () => {
 
@@ -21,9 +22,9 @@ const ItemDetailContainer = () => {
     }, [itemId])
 
     return (
-        <div>
+        <Flex justifyContent='center'>
             <ItemDetail {...product} />
-        </div>
+        </Flex>
     )
 }
 
