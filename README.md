@@ -1,1 +1,1 @@
-![ezgif com-video-to-gif-converter](https://github.com/emajaime03/Preentrega2_React/assets/141196096/deafa8ee-5f9f-4f85-baa9-1fc3f4633672)
+![ezgif com-video-to-gif-converter](https://github.com/emajaime03/Preentrega2_React/assets/141196096/ea3e8d6d-4eed-451f-8366-3b38badc7337)
